@@ -45,8 +45,18 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     background: white;
     padding: 1em;
+}
+
+#footer{
+    font-size: 20px;
+    background: #777;
+    color: White;
+    text-align:  center;
+    padding: 0.0001em;
+>>>>>>> footer
 }

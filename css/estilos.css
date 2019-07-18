@@ -38,6 +38,7 @@ body{
 #container h2{
     font-size: 25px;
 }
+/*
 #container h3{
     color: #38939b;
     background: #33c1ff;
@@ -47,7 +48,15 @@ body{
     margin: 0 auto;
     padding: 1em;
 }
-
+*/
 #post{
     padding: 1em;
+}
+
+#footer{
+    font-size: 30px;
+    background: #777;
+    color: White;
+    text-align:  center;
+    padding: 0.0001em;
 }

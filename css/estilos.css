@@ -14,14 +14,15 @@ body
     background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     margin: 0;
     padding: 0.5em;
+    font-size: 30px;
 }
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 40px;
     vertical-align: middle;
 }
 
@@ -58,5 +59,4 @@ body
     color: White;
     text-align:  center;
     padding: 0.0001em;
->>>>>>> footer
 }
